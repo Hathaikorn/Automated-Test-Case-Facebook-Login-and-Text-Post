@@ -4,8 +4,8 @@ Library  SeleniumLibrary
 *** Variables ***
 ${BROWSER}     chrome
 ${FACEBOOK_URL}  https://www.facebook.com
-${USERNAME}    Lookjun Hathaikorn
-${PASSWORD}    Hathaikorn63.
+${USERNAME}    YOURUSERNAME
+${PASSWORD}    YOURPASSWORD
 ${POST_TEXT}   My name is Hathaikorn
 
 *** Test Cases ***
